@@ -22,16 +22,16 @@ Config.PNotifyTheme = "gta" -- You need to have pNotify
     metroui]]
 
 Config.ColliderModifier = {
-    [0] = 2.1,   --Compacts  
-    [1]= 2.0,  --Sedans  
-    [2]= 2.0,  --SUVs  
-    [3]= 2.0,   --Coupes  
-    [4]= 2.0,   --Muscle  
-    [5]= 2.0,   --Sports Classics  
-    [6]= 2.0,   --Sports  
-    [7]= 2.0,   --Super  
-    [8]= 0,   --Motorcycles  
-    [9]= 1.89,  --Off-road  
+    [0]  = 2.1,   --Compacts  
+    [1]  = 2.0,  --Sedans  
+    [2]  = 2.0,  --SUVs  
+    [3]  = 2.0,   --Coupes  
+    [4]  = 2.0,   --Muscle  
+    [5]  = 2.0,   --Sports Classics  
+    [6]  = 2.0,   --Sports  
+    [7]  = 2.0,   --Super  
+    [8]  = 0,   --Motorcycles  
+    [9]  = 1.89,  --Off-road  
     [10] = 1.80, --Industrial  
     [11] = 2.0,  --Utility  
     [12] = 2.0,  --Vans  
