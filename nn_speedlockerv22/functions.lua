@@ -1,7 +1,5 @@
 Util = {}
 
-
-
 Util.Notify = function(text, type, timeout, sfx)
   if sfx then
   TriggerServerEvent('InteractSound_SV:PlayOnSource', 'notify', Config.Volume)
